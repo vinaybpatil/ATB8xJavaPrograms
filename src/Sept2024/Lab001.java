@@ -1,4 +1,4 @@
-package Sept2024.sep04;
+package Sept2024;
 
 public class Lab001 {
     public static void main (String args[]){
@@ -7,4 +7,3 @@ public class Lab001 {
     }
 
 }
-
