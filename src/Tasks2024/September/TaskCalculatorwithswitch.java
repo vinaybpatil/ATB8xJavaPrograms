@@ -1,4 +1,4 @@
-package Tasks2024.Sep23;
+package Tasks2024.September;
 import java.util.Scanner;
 
 public class TaskCalculatorwithswitch {
